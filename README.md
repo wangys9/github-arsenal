@@ -9,6 +9,7 @@ AI Agent 平台、框架、协作工具
 
 - [Multica — AI Agent 托管协作平台](ai-agent/multica.md)
 - [LangChain — Agent 工程平台](ai-agent/langchain.md)
+- [Mano-P — 端侧 GUI-VLA Agent 模型（Apple Silicon 本地推理/OSWorld #1/纯视觉 GUI 自动化）](ai-agent/mano-p.md)
 
 ### 设计与 UI
 设计系统、UI 框架、前端工具
@@ -24,6 +25,7 @@ AI Agent 平台、框架、协作工具
 
 - [QMD — 本地文档搜索引擎](search-knowledge/qmd.md)
 - [Awesome-Selfhosted — 最全面的自托管开源软件资源列表（60+ 分类/数百项目）](search-knowledge/awesome-selfhosted.md)
+- [Awesome — 精选列表鼻祖与总索引（27 大类/数百子列表/技术资源发现入口）](search-knowledge/awesome.md)
 
 ### AI 学习资源
 AI/ML 学习资源、教程、课程
@@ -41,6 +43,7 @@ LLM 训练/推理/微调工具、模型部署、RAG、数据处理
 - [VoxCPM — 无 Tokenizer 端到端 TTS 系统（30 语言/Voice Design/语音克隆/48kHz）](llm-tools/voxcpm.md)
 - [Prompt Optimizer — AI 提示词优化工具（多轮迭代/双模式/图片生成/MCP 集成/多部署方式）](llm-tools/prompt-optimizer.md)
 - [GraphRAG — 微软研究院知识图谱增强 RAG 框架（实体抽取/社区摘要/全局+局部查询）](llm-tools/graphrag.md)
+- [Dify — 开源 LLM 应用开发平台（可视化 Workflow/RAG/Agent/LLMOps/数百模型支持）](llm-tools/dify.md)
 
 ### 开发者工具
 IDE、CLI、编辑器插件、AI 编程增强
