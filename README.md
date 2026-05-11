@@ -33,6 +33,7 @@ AI/ML 学习资源、教程、课程
 - [Dive into LLMs —《动手学大模型》系列编程实践教程](ai-learning/dive-into-llms.md)
 - [30 Seconds of Code — 编程技巧文章集合（JavaScript/React/Python/CSS/127k Star）](ai-learning/30-seconds-of-code.md)
 - [Learn Claude Code — Agent Harness 工程实战教程（12 Session 渐进式/Python 可运行）](ai-learning/learn-claude-code.md)
+- [awesome-agentic-ai-zh — AI Agent 结构化 7 阶段学习路线图（145+ 项目/双路径/中文）](ai-learning/awesome-agentic-ai-zh.md)
 
 ### 大模型工具
 LLM 训练/推理/微调工具、模型部署、RAG、数据处理
@@ -63,6 +64,7 @@ IDE、CLI、编辑器插件、AI 编程增强
 - [Public APIs — 最全面的免费公共 API 列表（51 分类/1400+ API/认证·HTTPS·CORS 标注）](developer-tools/public-apis.md)
 - [AI Website Cloner Template — AI Agent 一键克隆网站为 Next.js 项目（13 平台/并行构建/视觉对比）](developer-tools/ai-website-cloner-template.md)
 - [Follow Builders — AI Builder 动态追踪摘要 Skill（25 位 Builder/6 播客/多平台推送/无需 API Key）](developer-tools/follow-builders.md)
+- [agent-skills — 生产级 AI Agent 工程技能包（22 Skills/7 命令/Google 工程实践/多平台）](developer-tools/agent-skills.md)
 
 ## 其他分类（按需创建）
 
