@@ -10,6 +10,7 @@ AI Agent 平台、框架、协作工具
 - [Multica — AI Agent 托管协作平台](ai-agent/multica.md)
 - [LangChain — Agent 工程平台](ai-agent/langchain.md)
 - [Mano-P — 端侧 GUI-VLA Agent 模型（Apple Silicon 本地推理/OSWorld #1/纯视觉 GUI 自动化）](ai-agent/mano-p.md)
+- [Professor Synapse — Prompt 工程驱动的 AI Agent 编排系统（专家召唤/多 Agent 辩论/自建 Agent 库）](ai-agent/professor-synapse.md)
 
 ### 设计与 UI
 设计系统、UI 框架、前端工具
@@ -19,6 +20,7 @@ AI Agent 平台、框架、协作工具
 - [Magic Resume — AI 驱动的在线简历编辑器（实时预览/PDF 导出/暗黑模式）](design-ui/magic-resume.md)
 - [UI UX Pro Max — AI 设计系统生成器 Skill（161 行业规则/67 风格/17+ AI 平台）](design-ui/ui-ux-pro-max-skill.md)
 - [Huashu Design — 一句话驱动的 AI 设计生成 Skill（动画/原型/PPT/信息图/5维评审）](design-ui/huashu-design.md)
+- [Guizang PPT Skill — 歸藏 HTML 演示文稿 Skill（电子杂志风/瑞士国际主义/配图/多平台封面）](design-ui/guizang-ppt-skill.md)
 
 ### 搜索与知识管理
 搜索引擎、笔记工具、知识图谱、文档管理
@@ -65,11 +67,21 @@ IDE、CLI、编辑器插件、AI 编程增强
 - [AI Website Cloner Template — AI Agent 一键克隆网站为 Next.js 项目（13 平台/并行构建/视觉对比）](developer-tools/ai-website-cloner-template.md)
 - [Follow Builders — AI Builder 动态追踪摘要 Skill（25 位 Builder/6 播客/多平台推送/无需 API Key）](developer-tools/follow-builders.md)
 - [agent-skills — 生产级 AI Agent 工程技能包（22 Skills/7 命令/Google 工程实践/多平台）](developer-tools/agent-skills.md)
+- [PPT Master — AI 生成原生可编辑 PPTX（真实形状/动画转场/模板复制/旁白视频/多 IDE 支持）](developer-tools/ppt-master.md)
+- [GitNexus — 零服务器代码智能引擎（知识图谱/16 MCP 工具/14 语言/39.4k Star）](developer-tools/gitnexus.md)
+- [CodeGraph — AI 编程 Agent 预索引代码知识图谱（35% 成本节省/19+ 语言/13 框架路由/100% 本地）](developer-tools/codegraph.md)
+- [CodeWiki — AI 驱动代码库文档自动生成框架（ACL 2026/层级分解多 Agent/8 语言/多模态图表）](developer-tools/codewiki.md)
+- [Image-SVG-PPTX Pro Skill — 图片转高保真可编辑 PPTX 的 Agent 技能（SVG 中间层/语义布局/三种质量模式）](developer-tools/image-svg-pptx-pro-skill.md)
+- [Understand Anything — 代码库转交互式知识图谱插件（多 Agent 流水线/Tree-sitter+LLM 混合/15+ 平台）](developer-tools/understand-anything.md)
+
+### 数据分析与可视化
+数据分析、可视化、BI 工具
+
+- [SC DataV — Three.js 3D 地图可视化大屏（React 19/ECharts/飞线动画/轮廓扫光）](data-analytics/sc-datav.md)
 
 ## 其他分类（按需创建）
 
 - `devops-infra/` — DevOps、基础设施、云原生
-- `data-analytics/` — 数据分析、可视化
 - `other/` — 其他
 
 ### 安全工具
