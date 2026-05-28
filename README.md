@@ -9,7 +9,7 @@ AI Agent 平台、框架、协作工具
 
 - [Multica — AI Agent 托管协作平台](ai-agent/multica.md)
 - [LangChain — Agent 工程平台](ai-agent/langchain.md)
-- [Mano-P — 端侧 GUI-VLA Agent 模型（Apple Silicon 本地推理/OSWorld #1/纯视觉 GUI 自动化）](ai-agent/mano-p.md)
+- [Mano-P — 端侧 GUI-VLA Agent 模型（Apple Silicon 本地推理/OSWorld [[1/纯视觉]] GUI 自动化）](ai-agent/mano-p.md)
 - [Professor Synapse — Prompt 工程驱动的 AI Agent 编排系统（专家召唤/多 Agent 辩论/自建 Agent 库）](ai-agent/professor-synapse.md)
 
 ### 设计与 UI
@@ -36,6 +36,7 @@ AI/ML 学习资源、教程、课程
 - [30 Seconds of Code — 编程技巧文章集合（JavaScript/React/Python/CSS/127k Star）](ai-learning/30-seconds-of-code.md)
 - [Learn Claude Code — Agent Harness 工程实战教程（12 Session 渐进式/Python 可运行）](ai-learning/learn-claude-code.md)
 - [awesome-agentic-ai-zh — AI Agent 结构化 7 阶段学习路线图（145+ 项目/双路径/中文）](ai-learning/awesome-agentic-ai-zh.md)
+- [Agentic Design Patterns — Google Agent 设计模式最佳中文翻译（21 模式/7 附录/4.9k Star）](ai-learning/agentic-design-patterns.md)
 
 ### 大模型工具
 LLM 训练/推理/微调工具、模型部署、RAG、数据处理
@@ -73,6 +74,9 @@ IDE、CLI、编辑器插件、AI 编程增强
 - [CodeWiki — AI 驱动代码库文档自动生成框架（ACL 2026/层级分解多 Agent/8 语言/多模态图表）](developer-tools/codewiki.md)
 - [Image-SVG-PPTX Pro Skill — 图片转高保真可编辑 PPTX 的 Agent 技能（SVG 中间层/语义布局/三种质量模式）](developer-tools/image-svg-pptx-pro-skill.md)
 - [Understand Anything — 代码库转交互式知识图谱插件（多 Agent 流水线/Tree-sitter+LLM 混合/15+ 平台）](developer-tools/understand-anything.md)
+- [Comet — OpenSpec + Superpowers 双星开发工作流（5 阶段自动流水线/断点恢复/28 平台/Shell 状态机）](developer-tools/comet.md)
+- [XCrawl Skills — AI Agent 网页数据采集 Skill 集（搜索/抓取/URL 映射/站点爬取/API-first）](developer-tools/xcrawl-skills.md)
+- [片刻 — AI 辅助本地照片选片工具（擂台式 PK/DINOv2 分组/RAW 支持/3 种模式）](developer-tools/pianke.md)
 
 ### 数据分析与可视化
 数据分析、可视化、BI 工具

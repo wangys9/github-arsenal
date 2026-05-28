@@ -28,7 +28,7 @@ Fireworks Tech Graph 是一个 Claude Code Skill，用自然语言描述系统�
 | Blueprint | 深蓝 | 架构文档、工程图纸 |
 | Notion Clean | 白色极简 | Notion、Confluence、Wiki |
 | Glassmorphism | 深色渐变 | 产品官网、Keynote |
-| Claude Official | 暖白 #f8f6f3 | Anthropic 风格图表 |
+| Claude Official | 暖白 [[f8f6f3]] | Anthropic 风格图表 |
 | OpenAI Official | 纯白 | OpenAI 风格图表 |
 
 ## 安装

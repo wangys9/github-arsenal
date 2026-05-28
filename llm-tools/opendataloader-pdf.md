@@ -8,7 +8,7 @@
 
 ## 简介
 
-OpenDataLoader PDF 是专为 AI/RAG 管线设计的 PDF 解析器，在基准测试中排名 #1（综合准确率 0.907）。支持从任意 PDF 中提取 Markdown、JSON（含边界框）和 HTML，同时具备 PDF 无障碍自动化能力——首个端到端生成 Tagged PDF 的开源工具。
+OpenDataLoader PDF 是专为 AI/RAG 管线设计的 PDF 解析器，在基准测试中排名 [[1（综合准确率]] 0.907）。支持从任意 PDF 中提取 Markdown、JSON（含边界框）和 HTML，同时具备 PDF 无障碍自动化能力——首个端到端生成 Tagged PDF 的开源工具。
 
 ## 核心能力
 
